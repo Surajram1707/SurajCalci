@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029532170607",
+    "firebase_url": "https://suraj-calci.firebaseio.com",
+    "project_id": "suraj-calci",
+    "storage_bucket": "suraj-calci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029532170607:android:0847d744b5313d16c6d09a",
+        "android_client_info": {
+          "package_name": "com.example.surajcalci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029532170607-od852kf8if46un5nbdobl6kse8tpq4eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surajcalci",
+            "certificate_hash": "551d38413f1455ba77ad8bfeb9e2afa37d79e4d4"
+          }
+        },
+        {
+          "client_id": "1029532170607-qi2h5v2ao26fjfubvfrvpe04818stle4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT8QOHZs78Jdcg5Dy8Gs2msZLPH0jUwDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029532170607-qi2h5v2ao26fjfubvfrvpe04818stle4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
